@@ -31,4 +31,4 @@ for i in values:
         f.write(rt.encode('utf8'))
         f.close()
        ## print var
-        os.rename("bmrdf/temp", "bmrdf/" + var)
+        os.rename("bmrdf/temp", "bmrdf/" + var + ".xml")
