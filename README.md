@@ -1,4 +1,4 @@
-This program is designed to ingets the output xml from the British Museum SPARQL endpoint and return separate RDF metadata records for each object returned in this output. It is currently pretty stupid and does not have usability features.
+This program is designed to ingest the output xml from the British Museum SPARQL endpoint and return separate RDF metadata records for each object returned in this output. It is currently pretty stupid and does not have usability features.
 
 The command takes a single argument: the xml file you wish for the program to read. Commands should read "sh bm.sh *something.xml*".
 
